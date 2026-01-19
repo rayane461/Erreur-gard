@@ -1,0 +1,5 @@
+{
+  "name": "FiveM Guardian: Script Security Tool",
+  "description": "A high-performance cybersecurity tool designed to scan, detect, and neutralize backdoors, ciphers, and Blum panel injections in FiveM scripts. Features real-time AI analysis and professional code cleaning.",
+  "requestFramePermissions": []
+}
